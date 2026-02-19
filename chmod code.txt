@@ -2,8 +2,9 @@ chmod 600 /home/jovyan/.ssh/id_ed25519
 git status
 git add *
 git commit -m " "
+git push
 git status
-git pull (to pull everything from the github branch to my environment
+git pull (to pull everything from the github branch to my environment)
 
 To restore previous version:
 git restore filname
