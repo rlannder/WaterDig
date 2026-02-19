@@ -3,7 +3,7 @@ git status
 git add *
 git commit -m " "
 git status
-git pull
+git pull (to pull everything from the github branch to my environment
 
 To restore previous version:
 git restore filname
