@@ -1,0 +1,9 @@
+chmod 600 /home/jovyan/.ssh/id_ed25519
+git status
+git add *
+git commit -m " "
+git status
+git pull
+
+To restore previous version:
+git restore filname
